@@ -1,0 +1,4 @@
+#Tue Apr 30 01:44:13 ART 2019
+base.0=/Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

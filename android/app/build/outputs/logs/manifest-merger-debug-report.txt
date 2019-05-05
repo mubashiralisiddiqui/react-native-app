@@ -1,0 +1,376 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-video-preview] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-video-preview/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-native-video-player] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-native-video-player/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-maps] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/c4f2284e29c652b1a75c9a7bbc570ef9/AndroidManifest.xml:17:1-32:12
+MERGED from [:react-native-camera] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-camera/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/355d3d94d09e45702ddbce7c59baf3f6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/2c13b55c6153bb8d7f605db771cf5570/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/8c35e23db375b1d6f517aff6d42868f3/AndroidManifest.xml:17:1-29:12
+MERGED from [:react-native-linear-gradient] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.56.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/22697441ceefdd98f1e8b658b90e8466/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a5fb39a2beffa944af06f1b4531422ef/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/2b0d1639a652df781f68ed7c2fdf8d18/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/b862f14471741e72def60e980abee097/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/ca245081867428cf8d34fa08bd213200/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/40b4349ee65eaac6b34ac4dd11f3a94f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/e86f7af08cc8b90444ec3ffc070a6e50/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:exifinterface:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/79c12b11ab3729c385ea225f1b3eca14/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1ed6f371879f572fc6ccd8aa5f1861a1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/faab8ed0d28406fbbda03338b6f0538b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5d3236b9a8f6f0c7f36b57666c9f39bf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b8a1fb5ed57a66ab2803edb37bce7cf1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4ab05aefc857dfff082b96f843bdbfc6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1ea7e7704f36dccc0701539c244f59f3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c24f21184ad227660957f9735103292c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b822eb308acebcf77593ebe88d13fbc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/a62c4eac2692d15ea2e9a5596e1ba033/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/2b8cdf84fefc424dc6d2d05f007bf072/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/4ea7e54f9126a993d595c0c2868f1304/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/939cfc27221676e528240c19553c40a5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/4e5a0b1ecfda264f08a6ef312052bbf5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/7615ef387b22adb32f32e84a19a44e91/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/a24b98d9165eb78af057ed9d449a0f8d/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/c418684e58815bf86228f1a9d324436c/AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/a55bc3766da9ea94475c535f60352051/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/c817ee3a6073a5dbcead0f899b1f9746/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/228a555ccfe920ac5b8220157189be4c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/6c6a83d7f33eb342b4e9aec8c7078514/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/144666f2c816226d26b8a6393bd7324a/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/76adc725933e25567da2a6f45dfa9bd5/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/c4f2284e29c652b1a75c9a7bbc570ef9/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/c4f2284e29c652b1a75c9a7bbc570ef9/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/22697441ceefdd98f1e8b658b90e8466/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.56.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/22697441ceefdd98f1e8b658b90e8466/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:6:5-81
+MERGED from [:react-native-maps] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:8:5-28:19
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/c4f2284e29c652b1a75c9a7bbc570ef9/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/c4f2284e29c652b1a75c9a7bbc570ef9/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/355d3d94d09e45702ddbce7c59baf3f6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/355d3d94d09e45702ddbce7c59baf3f6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/2c13b55c6153bb8d7f605db771cf5570/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/2c13b55c6153bb8d7f605db771cf5570/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/8c35e23db375b1d6f517aff6d42868f3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/8c35e23db375b1d6f517aff6d42868f3/AndroidManifest.xml:22:5-27:19
+MERGED from [:react-native-image-picker] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.56.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/22697441ceefdd98f1e8b658b90e8466/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.56.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/22697441ceefdd98f1e8b658b90e8466/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a5fb39a2beffa944af06f1b4531422ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a5fb39a2beffa944af06f1b4531422ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/2b0d1639a652df781f68ed7c2fdf8d18/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/2b0d1639a652df781f68ed7c2fdf8d18/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/b862f14471741e72def60e980abee097/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/b862f14471741e72def60e980abee097/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/ca245081867428cf8d34fa08bd213200/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/ca245081867428cf8d34fa08bd213200/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/40b4349ee65eaac6b34ac4dd11f3a94f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/40b4349ee65eaac6b34ac4dd11f3a94f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/e86f7af08cc8b90444ec3ffc070a6e50/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/e86f7af08cc8b90444ec3ffc070a6e50/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:exifinterface:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/79c12b11ab3729c385ea225f1b3eca14/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:exifinterface:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/79c12b11ab3729c385ea225f1b3eca14/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1ed6f371879f572fc6ccd8aa5f1861a1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1ed6f371879f572fc6ccd8aa5f1861a1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/faab8ed0d28406fbbda03338b6f0538b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/faab8ed0d28406fbbda03338b6f0538b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5d3236b9a8f6f0c7f36b57666c9f39bf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5d3236b9a8f6f0c7f36b57666c9f39bf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b8a1fb5ed57a66ab2803edb37bce7cf1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b8a1fb5ed57a66ab2803edb37bce7cf1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4ab05aefc857dfff082b96f843bdbfc6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4ab05aefc857dfff082b96f843bdbfc6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1ea7e7704f36dccc0701539c244f59f3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1ea7e7704f36dccc0701539c244f59f3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c24f21184ad227660957f9735103292c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c24f21184ad227660957f9735103292c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b822eb308acebcf77593ebe88d13fbc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b822eb308acebcf77593ebe88d13fbc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/a24b98d9165eb78af057ed9d449a0f8d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/a24b98d9165eb78af057ed9d449a0f8d/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/c418684e58815bf86228f1a9d324436c/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/c418684e58815bf86228f1a9d324436c/AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/a55bc3766da9ea94475c535f60352051/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/a55bc3766da9ea94475c535f60352051/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/c817ee3a6073a5dbcead0f899b1f9746/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/c817ee3a6073a5dbcead0f899b1f9746/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/228a555ccfe920ac5b8220157189be4c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/228a555ccfe920ac5b8220157189be4c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/144666f2c816226d26b8a6393bd7324a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/144666f2c816226d26b8a6393bd7324a/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/76adc725933e25567da2a6f45dfa9bd5/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/76adc725933e25567da2a6f45dfa9bd5/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:10:7-39
+	android:icon
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:9:7-38
+activity#com.halfbrain.MainActivity
+ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:24:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:25:9-27:70
+	android:value
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:27:13-68
+	android:name
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:26:13-58
+uses-sdk
+INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-video-preview] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-video-preview/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video-preview] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-video-preview/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-native-video-player] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-native-video-player/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-native-video-player] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-native-video-player/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/c4f2284e29c652b1a75c9a7bbc570ef9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/c4f2284e29c652b1a75c9a7bbc570ef9/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-camera] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-camera/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-camera/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/355d3d94d09e45702ddbce7c59baf3f6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/355d3d94d09e45702ddbce7c59baf3f6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/2c13b55c6153bb8d7f605db771cf5570/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/2c13b55c6153bb8d7f605db771cf5570/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/8c35e23db375b1d6f517aff6d42868f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/8c35e23db375b1d6f517aff6d42868f3/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-linear-gradient] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/22697441ceefdd98f1e8b658b90e8466/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/22697441ceefdd98f1e8b658b90e8466/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a5fb39a2beffa944af06f1b4531422ef/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a5fb39a2beffa944af06f1b4531422ef/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/2b0d1639a652df781f68ed7c2fdf8d18/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/2b0d1639a652df781f68ed7c2fdf8d18/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/b862f14471741e72def60e980abee097/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/b862f14471741e72def60e980abee097/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/ca245081867428cf8d34fa08bd213200/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/ca245081867428cf8d34fa08bd213200/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/40b4349ee65eaac6b34ac4dd11f3a94f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/40b4349ee65eaac6b34ac4dd11f3a94f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/e86f7af08cc8b90444ec3ffc070a6e50/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/e86f7af08cc8b90444ec3ffc070a6e50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/79c12b11ab3729c385ea225f1b3eca14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/79c12b11ab3729c385ea225f1b3eca14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1ed6f371879f572fc6ccd8aa5f1861a1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1ed6f371879f572fc6ccd8aa5f1861a1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/faab8ed0d28406fbbda03338b6f0538b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/faab8ed0d28406fbbda03338b6f0538b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5d3236b9a8f6f0c7f36b57666c9f39bf/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5d3236b9a8f6f0c7f36b57666c9f39bf/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b8a1fb5ed57a66ab2803edb37bce7cf1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b8a1fb5ed57a66ab2803edb37bce7cf1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4ab05aefc857dfff082b96f843bdbfc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4ab05aefc857dfff082b96f843bdbfc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1ea7e7704f36dccc0701539c244f59f3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1ea7e7704f36dccc0701539c244f59f3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c24f21184ad227660957f9735103292c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c24f21184ad227660957f9735103292c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b822eb308acebcf77593ebe88d13fbc/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b822eb308acebcf77593ebe88d13fbc/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/a62c4eac2692d15ea2e9a5596e1ba033/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/a62c4eac2692d15ea2e9a5596e1ba033/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/2b8cdf84fefc424dc6d2d05f007bf072/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/2b8cdf84fefc424dc6d2d05f007bf072/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/4ea7e54f9126a993d595c0c2868f1304/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/4ea7e54f9126a993d595c0c2868f1304/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/939cfc27221676e528240c19553c40a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/939cfc27221676e528240c19553c40a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/4e5a0b1ecfda264f08a6ef312052bbf5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/4e5a0b1ecfda264f08a6ef312052bbf5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/7615ef387b22adb32f32e84a19a44e91/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/7615ef387b22adb32f32e84a19a44e91/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/a24b98d9165eb78af057ed9d449a0f8d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/a24b98d9165eb78af057ed9d449a0f8d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/a55bc3766da9ea94475c535f60352051/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/a55bc3766da9ea94475c535f60352051/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/c817ee3a6073a5dbcead0f899b1f9746/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/c817ee3a6073a5dbcead0f899b1f9746/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/228a555ccfe920ac5b8220157189be4c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/228a555ccfe920ac5b8220157189be4c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/6c6a83d7f33eb342b4e9aec8c7078514/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/6c6a83d7f33eb342b4e9aec8c7078514/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/144666f2c816226d26b8a6393bd7324a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/144666f2c816226d26b8a6393bd7324a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/76adc725933e25567da2a6f45dfa9bd5/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/76adc725933e25567da2a6f45dfa9bd5/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a5fb39a2beffa944af06f1b4531422ef/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/c4f2284e29c652b1a75c9a7bbc570ef9/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/c4f2284e29c652b1a75c9a7bbc570ef9/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/c4f2284e29c652b1a75c9a7bbc570ef9/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/c4f2284e29c652b1a75c9a7bbc570ef9/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/c4f2284e29c652b1a75c9a7bbc570ef9/AndroidManifest.xml:28:9-32
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-camera] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-camera/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [:react-native-camera] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-camera/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:22-62
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-camera/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:react-native-camera] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-camera/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-camera/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-camera/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [:react-native-camera] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-camera/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-camera/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:9-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/8c35e23db375b1d6f517aff6d42868f3/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/8c35e23db375b1d6f517aff6d42868f3/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/8c35e23db375b1d6f517aff6d42868f3/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/8c35e23db375b1d6f517aff6d42868f3/AndroidManifest.xml:24:13-79
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/pablocaruso/Downloads/halfbrain-android-master 2/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a5fb39a2beffa944af06f1b4531422ef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:exifinterface:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/79c12b11ab3729c385ea225f1b3eca14/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:exifinterface:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/79c12b11ab3729c385ea225f1b3eca14/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1ed6f371879f572fc6ccd8aa5f1861a1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1ed6f371879f572fc6ccd8aa5f1861a1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/faab8ed0d28406fbbda03338b6f0538b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/faab8ed0d28406fbbda03338b6f0538b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5d3236b9a8f6f0c7f36b57666c9f39bf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5d3236b9a8f6f0c7f36b57666c9f39bf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b8a1fb5ed57a66ab2803edb37bce7cf1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b8a1fb5ed57a66ab2803edb37bce7cf1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4ab05aefc857dfff082b96f843bdbfc6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4ab05aefc857dfff082b96f843bdbfc6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1ea7e7704f36dccc0701539c244f59f3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1ea7e7704f36dccc0701539c244f59f3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c24f21184ad227660957f9735103292c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c24f21184ad227660957f9735103292c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b822eb308acebcf77593ebe88d13fbc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b822eb308acebcf77593ebe88d13fbc/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a5fb39a2beffa944af06f1b4531422ef/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a5fb39a2beffa944af06f1b4531422ef/AndroidManifest.xml:27:13-51
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/2b0d1639a652df781f68ed7c2fdf8d18/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/ca245081867428cf8d34fa08bd213200/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/ca245081867428cf8d34fa08bd213200/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/2b0d1639a652df781f68ed7c2fdf8d18/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/2b0d1639a652df781f68ed7c2fdf8d18/AndroidManifest.xml:9:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/pablocaruso/Downloads/halfbrain-android-master 2/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/76adc725933e25567da2a6f45dfa9bd5/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/76adc725933e25567da2a6f45dfa9bd5/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/76adc725933e25567da2a6f45dfa9bd5/AndroidManifest.xml:26:13-58

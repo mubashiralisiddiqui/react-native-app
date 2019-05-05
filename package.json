@@ -1,0 +1,37 @@
+{
+  "name": "testapp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.4.1",
+    "react-native": "0.56.0",
+    "react-native-asset-thumbnail": "0.0.4",
+    "react-native-awesome-alerts": "^1.0.8",
+    "react-native-calendars": "^1.19.4",
+    "react-native-camera": "^1.1.4",
+    "react-native-image-picker": "^0.26.10",
+    "react-native-keyboard-aware-scroll-view": "^0.6.0",
+    "react-native-linear-gradient": "^2.4.0",
+    "react-native-maps": "*",
+    "react-native-native-video-player": "^1.3.4",
+    "react-native-tableview": "^2.3.1",
+    "react-native-thumbnail-video": "0.0.8",
+    "react-native-vector-icons": "^4.6.0",
+    "react-native-video-preview": "git://github.com/chadsmith/react-native-video-preview.git",
+    "react-navigation": "^2.9.1",
+    "react-navigation-addons": "0.0.0"
+  },
+  "devDependencies": {
+    "babel-jest": "23.4.0",
+    "babel-preset-react-native": "5.0.2",
+    "jest": "23.4.0",
+    "react-test-renderer": "16.4.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

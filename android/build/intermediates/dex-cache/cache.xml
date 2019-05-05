@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yatinkalra/.android/build-cache/b9a9af0756e4bde1599111e6809f79689695f874/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/yatinkalra/Documents/testapp 2/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_e35a6272b0ed0cc44e5347991628da0c5dc40ead/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yatinkalra/Documents/testapp 2/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yatinkalra/Documents/testapp 2/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a5376df2381f8482061c3bf5aa45809b04fc6bb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yatinkalra/Documents/testapp 2/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="bc1eb41a9c7c589de9ac3902e7d1f5ca90d1d694">
+        <dex dex="/Users/yatinkalra/Documents/testapp 2/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5356860a9c6fb2a3194bd4e5936a3b7395a02c21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yatinkalra/.android/build-cache/b9a9af0756e4bde1599111e6809f79689695f874/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/yatinkalra/Documents/testapp 2/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6df2f6e3626e9f0e835b516d33bb6149f2e0c02d/classes.dex" />
+    </item>
+
+</items>
